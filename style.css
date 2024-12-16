@@ -1,0 +1,17 @@
+div.first-div{
+    background-color: #f29d13;    
+}
+div.first-div > p{
+    font-size: 1.2rem;
+    font-weight: 600;
+    color: #fff;
+}
+ul.menu{
+    background-color: #f29d13;
+}
+ul.menu > li a{
+    text-decoration: none;
+    color: #000;
+    font-size: 1.2rem;
+    font-weight: 700;
+}
